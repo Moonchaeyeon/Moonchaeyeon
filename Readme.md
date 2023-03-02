@@ -4,9 +4,9 @@
 
 <h3>🌕 Hi, I'm Chaeyeon</h3>
 <p>
-I am **Frontend** developer :computer:<br/>
-My hobbies are **drawing** :art: and **playing the piano** :musical_keyboard:<br/>
-I want to be a person who can think **creatively** :bulb:<br/>
+I am <b>Frontend</b> developer 💻<br/>
+My hobbies are <b>drawing</b> 🎨 and <b>playing the piano</b> 🎹<br/>
+I want to be a person who can think <b>creatively</b> 💡<br/>
 </p>
 
 <br/>

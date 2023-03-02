@@ -3,10 +3,11 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonchaeyeon&count_bg=%23FF8B8B&title_bg=%23FFBABA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <h3>🌕 Hi, I'm Chaeyeon</h3>
-
+<p>
 I am **Frontend** developer :computer:<br/>
 My hobbies are **drawing** :art: and **playing the piano** :musical_keyboard:<br/>
 I want to be a person who can think **creatively** :bulb:<br/>
+</p>
 
 <br/>
 <h3>💪 Skills</h3>
@@ -18,13 +19,17 @@ I want to be a person who can think **creatively** :bulb:<br/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 <br/>
+<div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 <br/>
+<div>
 <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazon%20s3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=white"/>
+</div>
 
 <br/>
 

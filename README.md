@@ -39,8 +39,6 @@ I want to be a person who can think <b>creatively</b> 💡<br/>
 
 <br/>
 
-![Moonchaeyeon's github stats](https://github-readme-stats.vercel.app/api?username=Moonchaeyeon&show_icons=true&theme=dracula&hide_border=true&bg_color=FDF9FF&text_color=796C80&card_width=450)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonchaeyeon&layout=compact&theme=dracula&bg_color=FDF9FF&hide_border=true&text_color=796C80&card_width=450)
 
 <br/>
